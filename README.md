@@ -125,7 +125,7 @@ This project is typically used with a test workbook covering a set of negative c
 
 - **Registration Number:** IT23183704
 - **Name:** Liyanage S. T
-- **Course / Assignment:** ITPM — Assignment 1
+- **Assignment:** ITPM — Assignment 1
 
 ---
 
